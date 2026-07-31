@@ -120,19 +120,19 @@ Para ver solamente una categoría de movimientos usando el catálogo numérico d
 
 **Solo Entradas (1):**
 
-```HTTP
+```url
 GET /api/inventorymovements?movementType=1&page=1&pageSize=100
 ```
 
 **Solo Mermas (2):**
 
-```HTTP
+```url
 GET /api/inventorymovements?movementType=2&page=1&pageSize=100
 ```
 
 **Solo Ajustes Positivos (3):**
 
-```HTTP
+```url
 GET /api/inventorymovements?movementType=3&page=1&pageSize=100
 ```
 

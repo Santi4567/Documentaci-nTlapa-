@@ -1,6 +1,5 @@
-- [ ] -traer los últimos movimientos del inventario 
+- [x] traer los últimos movimientos del inventario 
 - [x] verificar el problema del inventario 
 - [ ] endpoint espesifico para activar o desactivar propiedades del producto
-- [ ] filtros en el endpoint de inventarios, rango de fecha, por ingreso y por decremento selector de fecha
+- [x] filtros en el endpoint de inventarios, rango de fecha, por ingreso y por decremento selector de fecha
 - [ ] endpoint exclusivamente para cambiar el parámetro del inventario con un permiso especial para activar o desactivar 
-- [ ] hola
