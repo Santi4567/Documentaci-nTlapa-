@@ -1,0 +1,3 @@
+- [ ] -traer los últimos movimientos del inventario 
+- [ ] verificar el problema del inventario 
+- [ ] endpoint espesifico para activar o desactivar propiedades del producto 
