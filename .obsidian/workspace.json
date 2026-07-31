@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TlapaleriaAPI/Documentacion/Api Documentación Roles.md",
+                "file": "TlapaleriaAPI/Objetivos.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Api Documentación Roles"
+              "title": "Objetivos"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TlapaleriaAPI/Documentacion/Api Documentación Roles.md",
+                "file": "TlapaleriaAPI/Objetivos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes de Api Documentación Roles"
+              "title": "Enlaces entrantes de Objetivos"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TlapaleriaAPI/Documentacion/Api Documentación Roles.md",
+                "file": "TlapaleriaAPI/Objetivos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Enlaces salientes de Api Documentación Roles"
+              "title": "Enlaces salientes de Objetivos"
             }
           },
           {
@@ -156,21 +156,31 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TlapaleriaAPI/Documentacion/Api Documentación Roles.md",
+                "file": "TlapaleriaAPI/Objetivos.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Esquema de Api Documentación Roles"
+              "title": "Esquema de Objetivos"
+            }
+          },
+          {
+            "id": "0eb0fc29eb52cdd2",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -185,8 +195,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "931df1019a9846eb",
+  "active": "eaf2ae10b27c6a19",
   "lastOpenFiles": [
+    "TlapaleriaAPI/Documentacion/Api Documentación Roles.md",
     "Tlapaleria Front",
     "TlapaleriaAPI/Documentacion/Api Documentación Inventario.md"
   ]

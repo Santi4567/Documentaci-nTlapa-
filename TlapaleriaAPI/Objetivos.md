@@ -1,4 +1,4 @@
-
+Prueba
 # Alertas 
 
 Alertas de stock bajo (se necesita agregar una nueva columna (stock_min) para que el usuario pueda personalizar en que cantidad de stock salta la alerta, ejemplo: stock mínimo de manguera >10m, salta la alarma )
