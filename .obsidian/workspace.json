@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TlapaleriaAPI/Tareas.md",
+                "file": "TlapaleriaAPI/Documentacion/Api Documentación Inventario.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tareas"
+              "title": "Api Documentación Inventario"
             }
           }
         ]
@@ -197,13 +197,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0eb0fc29eb52cdd2",
+  "active": "eaf2ae10b27c6a19",
   "lastOpenFiles": [
-    "Sin título.md",
+    "TlapaleriaAPI/images/InventarioswaggerSnap2.png",
+    "TlapaleriaAPI/Documentacion/Api Documentación Inventario.md",
     "TlapaleriaAPI/Tareas.md",
+    "Sin título.md",
     "TlapaleriaAPI/Objetivos.md",
     "TlapaleriaAPI/Documentacion/Api Documentación Roles.md",
-    "Tlapaleria Front",
-    "TlapaleriaAPI/Documentacion/Api Documentación Inventario.md"
+    "Tlapaleria Front"
   ]
 }
