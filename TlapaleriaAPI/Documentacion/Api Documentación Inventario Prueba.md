@@ -1,7 +1,8 @@
 
 ![[InventarioSwagger.png]]
 
-### Petición Manual de Inventario (`POST /api/inventorymovements`) - ESTE SÍ CAMBIÓ
+### Petición Manual de Inventario (`POST /api/inventorymovements`) 
+
 
 Este es el único endpoint donde el usuario decide explícitamente qué tipo de alteración está haciendo (desde la pantalla de Kardex o Inventario). Aquí es donde el frontend ahora **debe mandar el número entero** correspondiente a tu `Enum` en lugar de enviar texto.
 
