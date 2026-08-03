@@ -66,7 +66,11 @@ Recordando los valores de tu Enum:
 }
 ```
 
-## Mostrar Kardex
+## Mostrar Kardex /api/InventoryMovements/product/ID
+
+```
+curl -X 'GET' \ 'https://localhost:7183/api/InventoryMovements/product/2?page=1&pageSize=50' \ -H 'accept: text/plain'`
+```
 
 
 ## Endpoint Maestro 4 en 1
