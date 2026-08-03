@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TlapaleriaAPI/BD/Respaldo de BD 2026-08-03.md",
+                "file": "TlapaleriaAPI/Documentacion/Api Documentación PedidosPendientes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Respaldo de BD 2026-08-03"
+              "title": "Api Documentación PedidosPendientes"
             }
           }
         ]
@@ -199,9 +199,11 @@
   },
   "active": "eaf2ae10b27c6a19",
   "lastOpenFiles": [
-    "TlapaleriaAPI/images/BDSnap2026_08_03.png",
-    "TlapaleriaAPI/BD/Respaldo de BD 2026-08-03.md",
+    "Pasted image 20260803155114.png",
     "TlapaleriaAPI/Documentacion/Api Documentación Inventario.md",
+    "TlapaleriaAPI/Documentacion/Api Documentación PedidosPendientes.md",
+    "TlapaleriaAPI/BD/Respaldo de BD 2026-08-03.md",
+    "TlapaleriaAPI/images/BDSnap2026_08_03.png",
     "TlapaleriaAPI/BD",
     "TlapaleriaAPI/images/InventarioswaggerSnap2.png",
     "TlapaleriaAPI/Tareas.md",
